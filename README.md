@@ -22,7 +22,7 @@ The project involves:
 ## Dataset
 
 **File(s):**
-- `data/raw/music_preferences.csv`
+- `data/portfolio_data.csv`
 
 **Main Columns:**
 - `user_id` → unique user identifier.  
