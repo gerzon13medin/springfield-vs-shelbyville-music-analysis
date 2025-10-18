@@ -3,9 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)  
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)  
-![Dataset](https://img.shields.io/badge/Dataset-Spotify%2FLocal-lightgrey)  
-![License](https://img.shields.io/badge/License-MIT-blueviolet)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)   
 
 ---
 
@@ -64,8 +62,6 @@ The project involves:
   - `numpy` — numerical operations  
   - `matplotlib` — data visualization  
   - `jupyter` — exploratory notebooks  
-
----
 
 ---
 
